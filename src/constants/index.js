@@ -22,6 +22,7 @@ import {
     carrent,
     jobit,
     tripguide,
+    ecommerce,
     threejs,
   } from "../assets";
   
@@ -257,7 +258,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: ecommerce,
       source_code_link: "https://github.com/",
     },
   ];
